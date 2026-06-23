@@ -1,1 +1,1 @@
-# About-Me
+# Data  Analyst focused on data visualization, business intelligence, and predictive analytics. Building projects with Python, SQL, Power BI, and machine learning to solve real-world problems and drive data-informed decisions.
